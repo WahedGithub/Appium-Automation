@@ -1,0 +1,23 @@
+device name: 
+Udid id: 48131JEBF16664
+Platform name
+Platform version: 
+
+Package name --> appPackage
+class name -> appActivity
+
+command for getting the Package name: adb shell dumpsys window | fin "mCurrentFocus"
+uRL : http://127.0.0.1:4723/
+
+1  com.sec.android.app.popupcalculator:id/calc_keypad_btn_01
+   com.sec.android.app.popupcalculator:id/calc_keypad_btn_01
+   com.sec.android.app.popupcalculator:id/calc_keypad_btn_01
+5 com.sec.android.app.popupcalculator:id/calc_keypad_btn_05
+7 com.sec.android.app.popupcalculator:id/calc_keypad_btn_07
+
+= com.sec.android.app.popupcalculator:id/calc_keypad_btn_equal
++ com.sec.android.app.popupcalculator:id/calc_keypad_btn_add
+
+//androidx.compose.ui.platform.ComposeView/android.view.View/android.view.View/android.view.View[1]/android.view.View/android.view.View/android.view.View[4]/android.widget.EditText/android.view.View
+
+CEG638
